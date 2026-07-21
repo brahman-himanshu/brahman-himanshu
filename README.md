@@ -590,37 +590,97 @@ I'm always open to collaborating on:
 - 📚 Every project teaches something new.
 
 ---
-
-# 🎯 Career Objective
-
-```text
-Seeking opportunities to contribute as a
-
-• Full Stack Developer
-• Software Engineer
-• AI / ML Engineer
-• Data Analyst
-
-while continuously learning and building impactful solutions.
-```
-
----
-
-# 📬 Let's Connect
+# 💡 Developer Motto
 
 <div align="center">
 
-📧 **Email:** hd674552@gmail.com
+### *"Code with Purpose. Learn with Curiosity. Build with Passion."* 💙
+
+</div>
+# 🎯 Career Objective
+
+<div align="center">
+
+*"Passionate about building scalable web applications and AI-powered solutions while continuously learning new technologies. My goal is to grow as a Software Engineer who creates impactful products using Full Stack Development, Data Analytics, Machine Learning, and Generative AI."*
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Looking For
+
+- 💻 Software Engineer Roles
+- 🌐 Full Stack Developer Opportunities
+- 🤖 AI / Machine Learning Projects
+- 📊 Data Analytics Projects
+- 🚀 Open Source Collaboration
+
+</td>
+
+<td width="50%">
+
+### 🎯 Career Vision
+
+- 🌟 Build Real-World Products
+- 📈 Solve Complex Problems
+- 🤝 Collaborate with Developers
+- 📚 Keep Learning Every Day
+- 💡 Create Technology That Makes an Impact
+
+</td>
+
+</tr>
+</table>
+
+> **"Turning ideas into impactful digital solutions through code, creativity, and continuous learning." 🚀**
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<p>
+<a href="mailto:hd674552@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/himanshu-kumar-236902355">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/brahman-himanshu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+### 📫 Feel free to connect with me
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/himanshu-kumar-236902355
 
+📧 **Email:**  
+**hd674552@gmail.com**
+
 🐙 **GitHub:**  
 https://github.com/brahman-himanshu
 
-</div>
+💬 I'm always open to discussing:
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics
+- 💡 Open Source Collaboration
+- 🚀 Innovative Tech Projects
 
 ---
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my work, don't forget to ⭐ my repositories.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6C63FF&height=120&section=footer"/>
+
+</div>
 
 # ❤️ Thanks for Visiting
 
