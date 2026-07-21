@@ -682,14 +682,3 @@ https://github.com/brahman-himanshu
 
 </div>
 
-# ❤️ Thanks for Visiting
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving a ⭐ to my repositories.
-
-### 🚀 *Code • Learn • Build • Repeat*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=150&section=footer"/>
-
-</div>
