@@ -359,18 +359,11 @@ I'm always open to collaborating on:
 </p>
 
 ---
-
-# 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/brahman-himanshu/brahman-himanshu/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/brahman-himanshu/brahman-himanshu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-> **Note:** Enable the `snake.yml` GitHub Action workflow to generate this animation automatically.
-
----
 
 # 💻 Coding Profiles
 
