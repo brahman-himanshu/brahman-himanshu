@@ -43,48 +43,49 @@
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-```cpp
-class HimanshuKumar {
+<table>
+<tr>
+<td width="65%">
 
-public:
+### Hi, I'm Himanshu 👋
 
-    string role = "Full Stack Developer";
+💻 Full Stack Developer
 
-    vector<string> interests = {
-        "Web Development",
-        "Data Analytics",
-        "Machine Learning",
-        "Generative AI",
-        "Open Source"
-    };
+📊 Data Analytics Learner
 
-    vector<string> currentlyLearning = {
-        "DSA",
-        "Next.js",
-        "Machine Learning",
-        "GenAI",
-        "LLMs"
-    };
+🤖 Machine Learning Explorer
 
-    string goal = "Become a Full Stack + AI Engineer";
+🧠 DSA Problem Solver
 
-};
-```
+🚀 Generative AI Enthusiast
 
----
+🎯 Goal:
+Become a Software Engineer capable of building scalable products using AI.
 
-# 🚀 Current Focus
+🌱 Currently Learning
 
-- 🌐 Building **Modern Full Stack Web Applications**
-- 🧠 Learning **DSA for Placements**
-- 📊 Exploring **Data Analytics using Python, SQL & Power BI**
-- 🤖 Building **Machine Learning & Generative AI Projects**
-- 🚀 Preparing for **Software Engineer & AI Internship Roles**
-- 💙 Looking to Contribute to **Open Source Projects**
+- Advanced DSA
+- React & Next.js
+- Machine Learning
+- Data Analytics
+- GenAI
+- LLMs
 
----
+⚡ Fun Fact
+
+I enjoy building projects more than watching tutorials.
+
+</td>
+
+<td width="35%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 # 🛠 Skills & Expertise
 
