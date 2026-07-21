@@ -136,17 +136,6 @@ public:
 
 </p>
 
-| Technology | Level |
-|------------|--------|
-| Pandas | ⭐⭐⭐⭐☆ |
-| NumPy | ⭐⭐⭐⭐☆ |
-| Scikit-Learn | ⭐⭐⭐⭐☆ |
-| Power BI | ⭐⭐⭐⭐☆ |
-| SQL | ⭐⭐⭐⭐☆ |
-| Machine Learning | ⭐⭐⭐☆☆ |
-| Generative AI | ⭐⭐⭐☆☆ |
-
----
 
 ## ☁ Deployment & Cloud
 
