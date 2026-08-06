@@ -185,21 +185,6 @@ I enjoy building projects more than watching tutorials.
 
 ### 📫 Feel free to connect with me
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/himanshu-kumar-236902355
-
-📧 **Email:**  
-**hd674552@gmail.com**
-
-🐙 **GitHub:**  
-https://github.com/brahman-himanshu
-
-💬 I'm always open to discussing:
-- 🌐 Full Stack Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Analytics
-- 💡 Open Source Collaboration
-- 🚀 Innovative Tech Projects
 
 ---
 
