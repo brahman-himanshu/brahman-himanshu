@@ -236,16 +236,6 @@ Responsive portfolio showcasing projects, skills and experience.
 
 ---
 
-# 🏆 Achievements
-
-- 🌟 Building Full Stack & AI Projects
-- 💻 Consistently solving DSA problems
-- 🚀 Exploring Machine Learning & Generative AI
-- 🌍 Learning Data Analytics with Python & SQL
-- 🤝 Contributing to Open Source
-
----
-
 
 
 # 📜 Certifications & Learning
@@ -273,11 +263,6 @@ I'm always open to collaborating on:
 
 ---
 
-# 💼 Developer Philosophy
-
-> **"Every project teaches something new. Every bug makes you a better developer. Consistency beats talent when talent doesn't stay consistent."**
-
----
 
 # 💡 Quote
 
@@ -345,32 +330,7 @@ I'm always open to collaborating on:
 
 ---
 
-# 💎 Developer Dashboard
 
-<div align="center">
-
-| 🚀 Focus | 📍 Status |
-|----------|-----------|
-| 🌐 Full Stack Development | 🟢 Active |
-| 📊 Data Analytics | 🟢 Learning |
-| 🤖 Machine Learning | 🟢 Learning |
-| 🧠 Generative AI | 🟢 Exploring |
-| ⚡ DSA | 🟢 Daily Practice |
-| 🌍 Open Source | 🟢 Ready to Contribute |
-
-</div>
-
-
-
-
-# 🌟 Fun Facts
-
-- 💻 I enjoy turning ideas into real-world applications.
-- 🧩 I love solving programming challenges.
-- 🚀 I believe consistency beats intensity.
-- 📚 Every project teaches something new.
-
----
 # 💡 Developer Motto
 
 <div align="center">
