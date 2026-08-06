@@ -235,19 +235,6 @@ Responsive portfolio showcasing projects, skills and experience.
 </table>
 
 ---
-
-
-
-
-
-# 💡 Quote
-
-
-
-> **"Code. Learn. Build. Repeat. Success is a by-product of consistency."**
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
