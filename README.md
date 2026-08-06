@@ -120,83 +120,14 @@ I enjoy building projects more than watching tutorials.
 </p>
 
 ---
-
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Internship Simulator
-
-AI-powered internship experience platform with interview simulation and evaluation.
-
-**Tech Stack**
-
-`React` `FastAPI` `Python` `Gemini AI`
-
-🔗 **GitHub:** *(Add your repository link)*
-
-🌐 **Live Demo:** *(Add deployed link)*
-
-</td>
-
-<td width="50%">
-
-### 🏠 Ustad Ji
-
-A modern home service booking platform with worker and customer portals.
-
-**Tech Stack**
-
-`Next.js` `FastAPI` `MongoDB`
-
-🔗 **GitHub:** *(Add your repository link)*
-
-🌐 **Live Demo:** *(Add deployed link)*
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🌍 AI Delhi NCR Pollution Dashboard
-
-AI-powered dashboard for pollution analysis and visualization.
-
-**Tech Stack**
-
-`Python` `Pandas` `Power BI` `Machine Learning`
-
-🔗 **GitHub:** *(Add your repository link)*
-
-🌐 **Live Demo:** *(Add deployed link)*
-
-</td>
-
-<td>
-
-### 🌐 Personal Portfolio
-
-Responsive portfolio showcasing projects, skills and experience.
-
-**Tech Stack**
-
-`React` `GSAP` `Three.js`
-
-🔗 **GitHub:** *(Add your repository link)*
-
-🌐 **Live Demo:** *(Add deployed link)*
-
-</td>
-
-</tr>
-
-</table>
-
+| Project | Tech Stack |
+|---|---|
+| 🤖 AI Internship Simulator | React • FastAPI • Python • Gemini AI |
+| 🏠 Ustad Ji | Next.js • FastAPI • MongoDB |
+| 🌍 AI Pollution Dashboard | Python • ML • Power BI |
+| 🌐 Portfolio | React • GSAP • Three.js |
 ---
 # 📊 GitHub Analytics
 
