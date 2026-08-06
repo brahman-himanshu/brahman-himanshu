@@ -118,6 +118,9 @@ I enjoy building projects more than watching tutorials.
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite,npm" />
 </p>
+
+---
+
 # 🚀 Featured Projects
 
 <table>
