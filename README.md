@@ -87,77 +87,37 @@ I enjoy building projects more than watching tutorials.
 </tr>
 </table>
 
-# 🛠 Skills & Expertise
+# 🛠️ Tech Stack
 
-## 💻 Programming Languages
-
+### 💻 Languages
 <p>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts"/>
-
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts" />
 </p>
 
----
-
-## 🎨 Frontend
-
+### 🎨 Frontend
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
 
----
-
-## ⚙ Backend
-
+### ⚙️ Backend
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
----
-
-## 🗄 Database
-
+### 🗄️ Database
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
 </p>
 
----
-
-## 🤖 AI • Machine Learning • Data Analytics
-
+### ☁️ Deployment
 <p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 
-
-## ☁ Deployment & Cloud
-
+### 🛠️ Tools
 <p>
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite,npm" />
 </p>
-
----
-
-## 🧰 Developer Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite,npm"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
 <table>
