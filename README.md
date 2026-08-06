@@ -246,41 +246,6 @@ Responsive portfolio showcasing projects, skills and experience.
 
 ---
 
-# 📚 Learning Journey
-
-```text
-✅ HTML & CSS
-      │
-      ▼
-✅ JavaScript
-      │
-      ▼
-✅ React.js
-      │
-      ▼
-✅ Next.js
-      │
-      ▼
-✅ Node.js & FastAPI
-      │
-      ▼
-✅ SQL & MongoDB
-      │
-      ▼
-✅ Data Structures & Algorithms
-      │
-      ▼
-🚀 Data Analytics
-      │
-      ▼
-🤖 Machine Learning
-      │
-      ▼
-🧠 Generative AI
-```
-
----
-
 # 🎯 2026 Goals
 
 - ✅ Master DSA
@@ -522,45 +487,6 @@ I'm always open to collaborating on:
 > Replace **your_username** with your actual profile usernames.
 
 ---
-
-# 📅 2026 Learning Roadmap
-
-```text
-✅ HTML & CSS
-        │
-        ▼
-✅ JavaScript
-        │
-        ▼
-✅ React.js
-        │
-        ▼
-✅ Next.js
-        │
-        ▼
-✅ Node.js & FastAPI
-        │
-        ▼
-✅ SQL & MongoDB
-        │
-        ▼
-✅ DSA
-        │
-        ▼
-🚀 Data Analytics
-        │
-        ▼
-🤖 Machine Learning
-        │
-        ▼
-🧠 Generative AI
-        │
-        ▼
-☁ Cloud Computing
-        │
-        ▼
-🤖 AI Agents & LLMs
-```
 
 ---
 
