@@ -284,52 +284,6 @@ Responsive portfolio showcasing projects, skills and experience.
 
 
 
-# 💡 Developer Motto
-
-<div align="center">
-
-### *"Code with Purpose. Learn with Curiosity. Build with Passion."* 💙
-
-</div>
-# 🎯 Career Objective
-
-<div align="center">
-
-*"Passionate about building scalable web applications and AI-powered solutions while continuously learning new technologies. My goal is to grow as a Software Engineer who creates impactful products using Full Stack Development, Data Analytics, Machine Learning, and Generative AI."*
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 💼 Looking For
-
-- 💻 Software Engineer Roles
-- 🌐 Full Stack Developer Opportunities
-- 🤖 AI / Machine Learning Projects
-- 📊 Data Analytics Projects
-- 🚀 Open Source Collaboration
-
-</td>
-
-<td width="50%">
-
-### 🎯 Career Vision
-
-- 🌟 Build Real-World Products
-- 📈 Solve Complex Problems
-- 🤝 Collaborate with Developers
-- 📚 Keep Learning Every Day
-- 💡 Create Technology That Makes an Impact
-
-</td>
-
-</tr>
-</table>
-
-> **"Turning ideas into impactful digital solutions through code, creativity, and continuous learning." 🚀**
-
 # 🌐 Let's Connect
 
 <div align="center">
