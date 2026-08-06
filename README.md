@@ -238,30 +238,6 @@ Responsive portfolio showcasing projects, skills and experience.
 
 
 
-# 📜 Certifications & Learning
-
-### Currently Pursuing
-
-- 📘 Full Stack Web Development
-- 📗 Data Analytics
-- 📙 Machine Learning
-- 📕 Generative AI
-- 📓 Data Structures & Algorithms
-
----
-
-# 🌟 Open Source
-
-I enjoy learning in public and contributing to projects that create real-world impact.
-
-I'm always open to collaborating on:
-
-- 🌐 Full Stack Applications
-- 🤖 AI & Machine Learning
-- 📊 Data Analytics
-- 🚀 Open Source Projects
-
----
 
 
 # 💡 Quote
