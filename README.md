@@ -246,17 +246,7 @@ Responsive portfolio showcasing projects, skills and experience.
 
 ---
 
-# 🎯 2026 Goals
 
-- ✅ Master DSA
-- ✅ Become MERN + Next.js Expert
-- ✅ Build AI-powered Applications
-- ✅ Learn Advanced Machine Learning
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Engineer / AI Internship
-- ✅ Build impactful real-world projects
-
----
 
 # 📜 Certifications & Learning
 
@@ -330,27 +320,6 @@ I'm always open to collaborating on:
   <img src="https://raw.githubusercontent.com/brahman-himanshu/brahman-himanshu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
 
 
 
