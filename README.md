@@ -284,29 +284,6 @@ Responsive portfolio showcasing projects, skills and experience.
 
 
 
-# ☕ Support My Work
-
-<p align="center">
-
-⭐ If you like my projects, consider giving them a **Star** on GitHub.
-
-🤝 I'm always open to collaborating on **Full Stack**, **AI**, **Machine Learning**, and **Data Analytics** projects.
-
-</p>
-
----
-
-<div align="center">
-
-## 🚀 "Dream Big • Build Bigger • Never Stop Learning"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
-
-</div>
-
----
-
-
 # 💡 Developer Motto
 
 <div align="center">
