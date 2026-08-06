@@ -352,76 +352,7 @@ I'm always open to collaborating on:
 
 </div>
 
----
 
-# 📚 Currently Exploring
-
-<table>
-
-<tr>
-
-<td>🤖 Generative AI</td>
-<td>██████████░░ 80%</td>
-
-</tr>
-
-<tr>
-
-<td>🧠 Machine Learning</td>
-<td>████████░░░░ 70%</td>
-
-</tr>
-
-<tr>
-
-<td>📊 Data Analytics</td>
-<td>█████████░░ 85%</td>
-
-</tr>
-
-<tr>
-
-<td>🌐 Full Stack Development</td>
-<td>███████████ 95%</td>
-
-</tr>
-
-<tr>
-
-<td>⚡ DSA</td>
-<td>████████░░░ 75%</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌍 Connect With Me
-
-<div align="center">
-
-<a href="mailto:hd674552@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/himanshu-kumar-236902355">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/brahman-himanshu">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
-
----
 
 # ☕ Support My Work
 
@@ -460,46 +391,8 @@ I'm always open to collaborating on:
 
 </div>
 
----
 
-# 🏅 Coding Platforms
 
-<div align="center">
-
-<a href="https://leetcode.com/your_username">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/your_username">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/your_username">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/your_username">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
-> Replace **your_username** with your actual profile usernames.
-
----
-
----
-
-# 📈 Weekly Development Goals
-
-- ✅ Solve 5–7 DSA problems
-- ✅ Build 1 Full Stack feature
-- ✅ Learn 1 ML concept
-- ✅ Complete 1 Data Analytics task
-- ✅ Push code to GitHub every week
-- ✅ Contribute to Open Source
-
----
 
 # 🌟 Fun Facts
 
